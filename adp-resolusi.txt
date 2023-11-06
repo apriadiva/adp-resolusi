@@ -1,0 +1,4 @@
+ADP RESOLUSI
+-review materi dasar pascal
+-review materi dasar python
+-review semua modul
