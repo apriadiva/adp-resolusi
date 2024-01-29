@@ -7,6 +7,4 @@ rencana project apk kalkulator
  ^kurang
  ^kali
  ^bagi
- ^akar
- ^pangkat
 -desainnya bagus
