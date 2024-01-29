@@ -8,4 +8,5 @@ rencana project apk kalkulator
  ^kali
  ^bagi
  ^akar
+ ^pangkat
 -desainnya bagus
