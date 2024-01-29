@@ -3,4 +3,8 @@ rencana project apk kalkulator
 -berbentuk apk
 -pake bahasa python
 -aritmatika dasar 
--desainnya bagus
+ ^tambah
+ ^kurang
+ ^kali
+ ^bagi
+
