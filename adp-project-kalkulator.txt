@@ -2,3 +2,4 @@ rencana project apk kalkulator
 -ada user interfacenya
 -berbentuk apk
 -pake bahasa python
+-aritmatika dasar 
