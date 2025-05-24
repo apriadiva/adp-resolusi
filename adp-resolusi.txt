@@ -1,5 +1,1 @@
-ADP RESOLUSI
--review materi dasar pascal
--review materi dasar python
--membuat project web sederhana
--membuat project berupa apk kalkulator
+
